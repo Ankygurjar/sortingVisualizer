@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Ankygurjar/sortingVisualizer/static/css/main.98afc8fb.chunk.css",
-    "main.js": "/Ankygurjar/sortingVisualizer/static/js/main.f00923df.chunk.js",
-    "main.js.map": "/Ankygurjar/sortingVisualizer/static/js/main.f00923df.chunk.js.map",
-    "runtime-main.js": "/Ankygurjar/sortingVisualizer/static/js/runtime-main.c5ae0805.js",
-    "runtime-main.js.map": "/Ankygurjar/sortingVisualizer/static/js/runtime-main.c5ae0805.js.map",
-    "static/js/2.90744dc9.chunk.js": "/Ankygurjar/sortingVisualizer/static/js/2.90744dc9.chunk.js",
-    "static/js/2.90744dc9.chunk.js.map": "/Ankygurjar/sortingVisualizer/static/js/2.90744dc9.chunk.js.map",
-    "index.html": "/Ankygurjar/sortingVisualizer/index.html",
-    "precache-manifest.1ecf026caed120e48556588cdb232f68.js": "/Ankygurjar/sortingVisualizer/precache-manifest.1ecf026caed120e48556588cdb232f68.js",
-    "service-worker.js": "/Ankygurjar/sortingVisualizer/service-worker.js",
-    "static/css/main.98afc8fb.chunk.css.map": "/Ankygurjar/sortingVisualizer/static/css/main.98afc8fb.chunk.css.map",
-    "static/js/2.90744dc9.chunk.js.LICENSE.txt": "/Ankygurjar/sortingVisualizer/static/js/2.90744dc9.chunk.js.LICENSE.txt"
+    "main.css": "/sortingVisualizer/static/css/main.98afc8fb.chunk.css",
+    "main.js": "/sortingVisualizer/static/js/main.097ffa75.chunk.js",
+    "main.js.map": "/sortingVisualizer/static/js/main.097ffa75.chunk.js.map",
+    "runtime-main.js": "/sortingVisualizer/static/js/runtime-main.ae99fb2d.js",
+    "runtime-main.js.map": "/sortingVisualizer/static/js/runtime-main.ae99fb2d.js.map",
+    "static/js/2.90744dc9.chunk.js": "/sortingVisualizer/static/js/2.90744dc9.chunk.js",
+    "static/js/2.90744dc9.chunk.js.map": "/sortingVisualizer/static/js/2.90744dc9.chunk.js.map",
+    "index.html": "/sortingVisualizer/index.html",
+    "precache-manifest.a19aa6846ae151ff5442ff36cf820660.js": "/sortingVisualizer/precache-manifest.a19aa6846ae151ff5442ff36cf820660.js",
+    "service-worker.js": "/sortingVisualizer/service-worker.js",
+    "static/css/main.98afc8fb.chunk.css.map": "/sortingVisualizer/static/css/main.98afc8fb.chunk.css.map",
+    "static/js/2.90744dc9.chunk.js.LICENSE.txt": "/sortingVisualizer/static/js/2.90744dc9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5ae0805.js",
+    "static/js/runtime-main.ae99fb2d.js",
     "static/js/2.90744dc9.chunk.js",
     "static/css/main.98afc8fb.chunk.css",
-    "static/js/main.f00923df.chunk.js"
+    "static/js/main.097ffa75.chunk.js"
   ]
 }
